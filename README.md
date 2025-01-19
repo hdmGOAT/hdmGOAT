@@ -6,7 +6,7 @@ const aboutMe = {
     currently_learning: ["Django"]
   }
   techStack: {
-    progLanguages: [Python, Typescript, Javascript, C++, HTML, CSS],
+    progLanguages: ["Python", "Typescript", "Javascript", "C++", "HTML", "CSS"],
     technologies: {
       frontEnd: {
         js: ["React"],
