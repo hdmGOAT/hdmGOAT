@@ -2,7 +2,7 @@
 const aboutMe = {
   hdmGOAT: {
     education: "2nd Year major in Computer Science",
-    working_on: ,
+    working_on: "https://github.com/potakaaa/regressionify" ,
     currently_learning: ["Django"]
   }
   techStack: {
