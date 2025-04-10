@@ -2,8 +2,8 @@
 const aboutMe = {
   hdmGOAT: {
     education: "2nd Year major in Computer Science",
-    working_on: "Bamboost" ,
-    currently_learning: ["Django"]
+    working_on: ["Bamboost", "TFTFGraph"] ,
+    currently_learning: [""]
   }
   techStack: {
     progLanguages: ["Python", "Typescript", "Javascript", "C++", "HTML", "CSS"],
