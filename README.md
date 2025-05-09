@@ -13,7 +13,7 @@ const aboutMe = {
         css: ["Tailwind", "ShadCN"],
       },
       backEnd: {
-        python: ["Django"],
+        python: ["Django", "FastAPI"],
         JS: ["Node", "Express"]
       },
       databases: ["Supabase", "MariaDB", "MySQL"]
