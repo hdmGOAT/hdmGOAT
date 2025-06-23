@@ -9,7 +9,7 @@ const aboutMe = {
     progLanguages: ["Python",
                     "Typescript",
                     "Javascript",
-                    "Go"
+                    "Go",
                     "C++",
                     "HTML",
                     "CSS"],
