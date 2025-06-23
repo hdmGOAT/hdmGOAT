@@ -1,12 +1,18 @@
 ```javascript
 const aboutMe = {
   hdmGOAT: {
-    education: "2nd Year major in Computer Science",
-    working_on: ["Bamboost", "TFTFGraph"] ,
-    currently_learning: [""]
+    education: "Incoming 3rd Year major in Computer Science",
+    working_on: ["Jogaliga"] ,
+    currently_learning: ["Rust", "MT5", "Tensorflow"]
   }
   techStack: {
-    progLanguages: ["Python", "Typescript", "Javascript", "C++", "HTML", "CSS"],
+    progLanguages: ["Python",
+                    "Typescript",
+                    "Javascript",
+                    "Go"
+                    "C++",
+                    "HTML",
+                    "CSS"],
     technologies: {
       frontEnd: {
         js: ["React"],
