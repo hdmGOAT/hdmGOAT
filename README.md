@@ -1,25 +1,27 @@
 ```javascript
 const aboutMe = {
   hdmGOAT: {
-    education: "Incoming 3rd Year major in Computer Science",
-    working_on: ["Jogaliga"] ,
-    currently_learning: ["Rust"]
+    education: "3rd Year major in Computer Science, ",
+    working_on: [""] ,
+    currently_learning: [""]
   }
   techStack: {
     progLanguages: ["Python",
                     "Typescript",
                     "Javascript",
                     "Go",
+                    "Rust",
                     "C++",
                     "HTML",
                     "CSS"],
     technologies: {
       frontEnd: {
         js: ["React"],
-        css: ["Tailwind", "ShadCN"],
+        css: ["Tailwind"],
       },
       backEnd: {
-        python: ["Django", "FastAPI"],
+        go: [], 
+        python: ["Django", "FastAPI", "Flask"],
         JS: ["Node", "Express"]
       },
       databases: ["Supabase", "MariaDB", "MySQL"]
@@ -27,8 +29,3 @@ const aboutMe = {
   },
 };
 ```
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HDMgoat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HDMgoat&theme=dark&hide_border=false)<br/>
-
