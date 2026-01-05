@@ -4,7 +4,7 @@ const aboutMe = {
     education: "3rd Year major in Computer Science, ",
     working_on: [""] ,
     currently_learning: [""]
-  }
+  },
   techStack: {
     progLanguages: ["Python",
                     "Typescript",
