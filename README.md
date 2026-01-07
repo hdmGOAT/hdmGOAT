@@ -3,7 +3,8 @@ const aboutMe = {
   hdmGOAT: {
     education: "3rd Year major in Computer Science, ",
     working_on: [""] ,
-    currently_learning: [""]
+    currently_learning: [""],
+    interests: ["Low Level", "Data Science"],
   },
   techStack: {
     progLanguages: ["Python",
