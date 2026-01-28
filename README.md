@@ -1,9 +1,9 @@
 ```javascript
 const aboutMe = {
   hdmGOAT: {
-    education: "3rd Year major in Computer Science, ",
+    education: "3rd year major in Computer Science, ",
     working_on: [""] ,
-    currently_learning: [""],
+    currently_learning: ["Rust"],
     interests: ["Low Level", "Machine Learning"],
   },
   techStack: {
